@@ -1,5 +1,20 @@
-### Hi there 👋
+### Hi, What's up? 👋 I'm Vitor Stocco Garcia
 
+#### About
+I'm Rocketseat student, currently I'm studying the `Explorer` trail.
+
+#### Learn....
+  - HTML
+  - CSS
+  - JavaScript
+
+#### Tools
+  - Figma
+  - VsCode
+  - GitGithub
+
+#### Contacts
+  - [Linkedin](https://www.linkedin.com/in/vitorstocco/)
 <!--
 **VitorStocco/VitorStocco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
